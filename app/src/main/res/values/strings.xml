@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Qr Test</string>
+    <string name="scanner_text">Сканируйте что-нибудь</string>
 </resources>
